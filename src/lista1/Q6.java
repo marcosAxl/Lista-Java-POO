@@ -1,4 +1,4 @@
-/*O código abaixo contém erros de sintaxe e/ou lógica.
+package lista1;/*O código abaixo contém erros de sintaxe e/ou lógica.
  Identifique os erros, explique cada um e reescreva o código corrigido:
  import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-/*Peça um número ao usuário. Verifique e imprima:
+package lista1;/*Peça um número ao usuário. Verifique e imprima:
 "Múltiplo de 3", se for múltiplo de 3;
 "Múltiplo de 5", se for múltiplo de 5;
 "Múltiplo de ambos", se for múltiplo de 3 e 5;

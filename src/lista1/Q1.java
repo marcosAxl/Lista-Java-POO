@@ -1,4 +1,4 @@
-/*Escreva um programa que leia o nome de um aluno e suas três notas, sendo a terceira nota com peso 2.
+package lista1;/*Escreva um programa que leia o nome de um aluno e suas três notas, sendo a terceira nota com peso 2.
  Calcule e exiba a média ponderada, com duas casas decimais. Depois, exiba se o aluno está "Aprovado" (média ≥ 7) ou "Reprovado".
  */
 

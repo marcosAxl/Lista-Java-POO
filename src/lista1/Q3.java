@@ -1,4 +1,4 @@
-/*Peça ao usuário um número inteiro positivo N. Em seguida, imprima todos os números primos entre 2 e N.*/
+package lista1;/*Peça ao usuário um número inteiro positivo N. Em seguida, imprima todos os números primos entre 2 e N.*/
 
 import java.util.Scanner;
 
